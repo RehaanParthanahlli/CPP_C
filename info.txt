@@ -1,0 +1,5 @@
+https://www.msys2.org
+https://code.visualstudio.com/docs/cpp/config-mingw
+https://www.ascii-code.com
+https://cplusplus.com/reference/
+https://www.youtube.com/watch?v=-TkoO8Z07hI&list=PPSV
